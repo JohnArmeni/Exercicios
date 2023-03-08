@@ -1,4 +1,4 @@
-Ex3 - Mostra o atleta, os seus saltos e a média entre todos eles
+#Ex3 - Mostra o atleta, os seus saltos e a média entre todos eles
 
 atleta = input("Digite o nome do atleta: ")
 salto = []
