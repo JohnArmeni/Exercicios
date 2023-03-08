@@ -1,0 +1,2 @@
+# Exercicios
+Para consultas :)
